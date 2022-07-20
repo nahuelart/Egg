@@ -8,8 +8,6 @@ public class Libro {
     private String autor;
     private int NumPag;
     private int isbn ;
-    private String atrib1;
-    
     
     public Libro(){
         
