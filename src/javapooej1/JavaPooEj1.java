@@ -7,7 +7,7 @@
 */
 package javapooej1;
 
-import java.util.Scanner;
+
 import javapooej1.entidades.Libro;
 import javapooej1.servicios.ServicioLibro;
 
